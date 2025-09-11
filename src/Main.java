@@ -17,6 +17,7 @@ public class Main {
 
         Files.exists(ruta);
         try {
+
            // Path nuevo2 = Paths.get("files/nuevo2.txt");
 
            // Files.createFile(Path.of("files/nuevo.txt"));
